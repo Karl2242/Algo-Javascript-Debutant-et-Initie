@@ -31,7 +31,7 @@ Avec chaque exercice, vous renforcerez votre capacité à penser comme un dével
 ## La minute versionning 🕰️
 
 💡 Petit rappel ! Créez un repo dans lequel vous ferez vos exercices.
-A la fin de **CHAQUE** exercices, pensez à faire un **commit** dans votre dépôt Git ! **Versionner régulièrement**, c’est la clé pour garder une trace de votre progression et éviter les mauvaises surprises en cas d’erreur 🛡️.
+A la fin de **CHAQUE** exercices, pensez à faire un **commit** dans votre dépôt Git ! **Versionner c'est douter**, c’est la clé pour garder une trace de votre progression et éviter les mauvaises surprises en cas d’erreur 🛡️.
 
 ## ⚠️ Les exercices suivants ne sont pas forcément trié par ordre de difficultés. Si vous passez + de **30 minutes** sur un exercice, passez au suivant. ⚠️
 
